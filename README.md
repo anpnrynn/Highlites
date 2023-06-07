@@ -6,7 +6,7 @@ __There is no address bar, goto Search > Search Engine > Lookup website > Click 
 __Also, there is no need for app download / update, you are directly accessing the website with full functionality.__
 
 __Note:__
-If you are using a normal laptop, I suggest you use Chrone / Edge / Firefox / Brave. You will find it more cumbersome to use this.
+If you are using a normal laptop, I suggest you use Chrome / Edge / Firefox / Brave. You will find it more cumbersome to use this.
 
 Source code is in beta stage and the code is the first version.
 
