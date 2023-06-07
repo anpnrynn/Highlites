@@ -5,6 +5,9 @@ __Home button on the app provides access to help / documentation.__
 __There is no address bar, goto Search > Search Engine > Lookup website > Click on link !.__
 __Also, there is no need for app download / update, you are directly accessing the website with full functionality.__
 
+__Note:__
+If you are using a normal laptop, I suggest you use Chrone / Edge / Firefox / Brave. You will find it more cumbersome to use this.
+
 Source code is in beta stage and the code is the first version.
 
 This is a public repo, so as of now you can open bugs against the product and features.
