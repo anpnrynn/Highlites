@@ -17,7 +17,7 @@ You can also make queries, requests, comments, provide suggestions and feedback.
 Code is written in c# and in vs2022 and makes use of webview2.
 
 __Prerequisites:__ (Please install them)
-- .net 6.0
+- .net desktop runtime 6.0
 - .net framework 4.7.2
 
 
