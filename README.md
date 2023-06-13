@@ -20,4 +20,5 @@ __Prerequisites:__ (Please install them)
 - .net desktop runtime 6.0
 - .net framework 4.7.2
 
+__[Usage video](https://youtu.be/zgdwBlVGLmY)__
 
