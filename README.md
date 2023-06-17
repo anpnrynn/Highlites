@@ -19,6 +19,7 @@ Code is written in c# and in vs2022 and makes use of webview2.
 __Prerequisites:__ (Please install them)
 - .net desktop runtime 6.0
 - .net framework 4.7.2
+- Requires Intel version of surface pro 9
 
 __[Usage video](https://youtu.be/zgdwBlVGLmY)__
 
